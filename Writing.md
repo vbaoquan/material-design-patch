@@ -56,12 +56,12 @@
 一个例外是当一个人（不是软件）真的是在为一个用户采取操作，例如重审一个提案或者反馈一个建议。这里，“我们”的使用是合适的，并且比强制被动的选择更加人性化。
 
 ```
-We’ll review your appeal and respond within a few days.
+我们将审查你的请求并在几天之内回复。
 ```
 正确
 
 ```
-Your appeal will be reviewed, and you will receive a response within a few days.
+你的请求将被查看，你将会在几天之内收到回复。
 ```
 错误
 
@@ -70,24 +70,24 @@ Your appeal will be reviewed, and you will receive a response within a few days.
 UI 文本会对导航和发现有帮助。最好的 UI 文本是一些小的段，这样在浏览的时候就不会阅读太多。
 
 ```
-Send money to anyone in the U.S. who has an email address. It’s fast, easy, and free.
+发送钱给在美国的任何人。只要这个人有邮箱地址。快捷、方便、免费。
 ```
 正确
 
 ```
-Send (and receive) money with friends and family in the U.S. with an email address. It’s a two-step process with little-to-no latency and there aren’t any charges for the recipients of the money.
+发送（以及接收）钱给美国的朋友和家庭成员。通过一个邮箱地址。只有两步过程，很少或者没有延时，并且对钱的接收人没有任何费用。
 ```
 错误
 
 让你的语句和短句短一点。用尽量少的概念。
 
 ```
-Read the instructions that came with your phone.
+阅读发到你手机的操作指南。
 ```
 正确
 
 ```
-Consult the documentation that came with your phone for further instructions.
+咨询发送到你手机的文档，以获取进一步的操作指南。
 ```
 错误
 
@@ -102,12 +102,12 @@ Consult the documentation that came with your phone for further instructions.
 如果你需要使用过去时或者未来时书写，使用简单的动词形式。
 
 ```
-Message sent
+消息发出
 ```
 正确
 
 ```
-Message has been sent
+消息已经被发出
 ```
 错误
 
@@ -116,12 +116,12 @@ Message has been sent
 简单直接的语言对于用户来说更加容易理解，因为他们通常是大概浏览一个界面。
 
 ```
-Save changes?
+保存变动？
 ```
 正确
 
 ```
-Would you like to save your changes?
+你需要保存你的变动吗？
 ```
 错误
 
@@ -129,46 +129,47 @@ Would you like to save your changes?
 在多个同义词之间进行选择时，挑选最简单的。
 
 ```
-Turn on Location History
+打开位置历史
 ```
 正确
 
 ```
-Enable Location History
+使能位置历史
 ```
 错误
 
 不要使用只有内部专业人士才能理解的术语，不要使用我们为了 UI 功能发明的名称。
 
 ```
-Preparing video…
+视频准备中...
 ```
 正确
 
 ```
-Buffering…
+缓冲中...
 ```
 错误
 
 ```
-“Ok Google” isn’t supported on your phone
+“好的，谷歌”在你的手机上不被支持
 ```
 正确
 
 ```
-“Ok Google” is only supported on dual-core devices
+“好的，谷歌”只在两核的设备上被支持
+
 ```
 错误
 
 像“slider”和“menu”这样的通用术语还好，将用户引导 UI 元素的标签上，而不是元素的种类（例如菜单和按钮）。
 
 ```
-Click Continue
+点击继续
 ```
 正确
 
 ```
-Click the Continue button
+点击继续按钮
 ```
 错误
 
@@ -177,32 +178,32 @@ Click the Continue button
 跳过许多通用的介绍性短语，直接说重点。
 
 ```
-Delete this photo?
+删除照片？
 ```
 正确
 
 ```
-Are you sure you want to delete this photo?
+你确定要删除这个照片吗？
 ```
 错误
 
 ```
-Register to vote
+注册来投票
 ```
 正确
 
 ```
-You must register before you can vote
+在你能投票之前必须先投票
 ```
 错误
 
 ```
-Want to…
+想要...
 ```
 正确
 
 ```
-Do you want to…
+你是否想要...
 ```
 错误
 
@@ -211,37 +212,37 @@ Do you want to…
 一个操作的框架概念是一个典型的动词。挑选一个，在一个操作中一致地使用。
 
 ```
-Remove photo
+删除照片
 ```
 正确。菜单条目
 
 ```
-Delete photo
+删除照片
 ```
 错误。菜单条目
 
 ```
-Remove photo?
+删除照片？
 ```
 正确。对话框标题
 
 ```
-Remove photo from page?
+从页面中删除照片？
 ```
 错误。对话框标题
 
 ```
-Remove this photo from this page?
+从当前页面中删除照片？
 ```
 正确。对话框文本
 
 ```
-Cancel | Remove
+取消 | 删除
 ```
 正确。对话框按钮
 
 ```
-Cancel | OK
+取消 | 确定
 ```
 正确。对话框按钮
 
@@ -250,12 +251,12 @@ Cancel | OK
 激励用户学习如何完成一个任务。
 
 ```
-To remove a photo from this album, drag it to the trash
+从当前相册中删除一张照片，将他拖动到垃圾篓
 ```
 正确
 
 ```
-Drag a photo to the trash to remove it from this album
+拖动一张照片到垃圾篓来从当前相册中删除它
 ```
 错误
 
@@ -264,12 +265,12 @@ Drag a photo to the trash to remove it from this album
 不要用所有的细节加重用户的负担。只在用户探索和需要信息时，逐步展示功能的细节。
 
 ```
-Remove downloaded book?
+删除下载的书籍？
 ```
 正确
 
 ```
-Are you sure you want to remove this downloaded book? You won’t be able to access it unless you’re online.
+你确定要删除这本已下载的书籍？除非你在线，你将不能再阅读它。
 ```
 错误
 
@@ -278,12 +279,12 @@ Are you sure you want to remove this downloaded book? You won’t be able to acc
 避免使用“永远不要”以及其他很绝对的词。
 
 ```
-Your circle names aren’t shared
+你所圈出的名字将不会被分享
 ```
 正确
 
 ```
-We’ll never share your circle names
+我们永远不会分享你圈出的名字
 ```
 错误
 
@@ -313,16 +314,17 @@ We’ll never share your circle names
 你的 UI 中的文本应该补充你的视觉 UI ：直观，有效，随和，以及值得信赖。展示魅力，但是不要抢了用户的风头。
 
 ```
-MyApp isn’t responding
+我的应用没有反应。
 
-Do you want to close it?
+你希望关闭它吗？
 ```
 正确
 
 ```
-Sorry!
+对不起！
 
-Activity in MyAppActivity (in the  MyApp app) is not responding
+
+MyAppActive 中的动作（在 MyApp 应用中）没有反应
 ```
 错误
 
@@ -331,22 +333,23 @@ Activity in MyAppActivity (in the  MyApp app) is not responding
 不要夸张或者过度承诺。展示一个功能做什么，不要说它如何好。
 
 ```
-All your savings in one place
+你的所有积蓄在一个地方
+
 ```
 正确
 
 ```
-Great deals at places you’ll love
+你将会喜欢的超级棒的交易
 ```
 错误
 
 ```
-More restaurant reviews
+更多的餐馆风景
 ```
 正确
 
 ```
-All restaurant reviews
+所有的餐馆风景
 ```
 错误
 
@@ -355,12 +358,12 @@ All restaurant reviews
 关注于每个功能的好处。在功能（按钮，菜单条目，链接，以及提示）的进入阶段，省略完成细节，注意事项，以及限制。
 
 ```
-To save power, switch Location mode to Battery saving mode.
+为了节省电源，将定位模式切换到省电模式。
 ```
 正确
 
 ```
-Manually control GPS to prevent other apps from using it.
+手动控制 GPS 来防止其他应用使用它。
 ```
 错误
 
@@ -369,12 +372,12 @@ Manually control GPS to prevent other apps from using it.
 以一个积极的语气展示信息：令人安心。
 
 ```
-Use 24 characters or fewer for file names.
+为文件名称使用24个或者以下的字符。
 ```
 正确
 
 ```
-Your file name must be less than 25 characters.
+你的文件名称必须少于25个字符。
 ```
 错误
 
@@ -385,16 +388,16 @@ Your file name must be less than 25 characters.
 一个用户的简单操作成功时，避免使用表明这很令人吃惊或者不寻常的消息。
 
 ```
-Signing in...
+登录中...
 
-Your phone is contacting Google. This can take up to five minutes.
+你的手机正在联系谷歌。这将花费最多五分钟的时间。
 ```
 正确
 
 ```
-Signing in...
+登录中...
 
-Your phone needs to communicate with Google servers to sign in to your account. This may take up to five minutes.
+你的手机需要与谷歌的服务器沟通来登录你的账户。这将话费最多5分钟的时间。
 ```
 错误
 
@@ -407,17 +410,17 @@ Your phone needs to communicate with Google servers to sign in to your account. 
 避免全大写，除了 material 规格需要的地方，例如，按钮风格。
 
 ```
-Search settings
+搜索设置（Search settings）
 ```
 正确
 
 ```
-Search Settings
+搜索设置（Search Settings）
 ```
 错误
 
 ```
-SEARCH SETTINGS
+搜索设置（SEARCH SETTINGS）
 ```
 错误
 
@@ -426,12 +429,12 @@ SEARCH SETTINGS
 不要在使用时大写那些你创建的东西。
 
 ```
-Visit our Google+ page.
+访问我们的 Google+ 页面。（Visit our Google+ page.）
 ```
 正确
 
 ```
-Visit our Google+ Page.
+访问我们的 Google+ 页面。（Visit our Google+ Page.）
 ```
 错误
 
@@ -463,17 +466,17 @@ it is, cannot, would not, it’ll, should’ve
 问你自己，会有人这样喊出来吗？
 
 ```
-Welcome!
+欢迎！
 ```
 正确
 
 ```
-Learn about the new features of Calendar!
+学习更多关于日历的新功能！
 ```
 错误
 
 ```
-Good job!
+干的漂亮！
 ```
 正确
 
@@ -484,12 +487,12 @@ Good job!
 一个例外是混合使用数字时：“Enter two 3s.”。
 
 ```
-You have 3 messages
+你有 3 条消息（You have 3 messages）
 ```
 正确
 
 ```
-You have three messages
+你有三条消息（You have three messages）
 ```
 错误
 
@@ -499,7 +502,7 @@ You have three messages
 
 使用标点符号来增加清晰度和语法正确性。
 
-|| || 代表/符号 || 描述 ||
+|| * * || *代表/符号* || *描述* ||
 || 句号 || . || 为 toasts，snackbars，butterbars，以及标签中的提示中的段落和短句子省略。但是需要为主题内容中的整句子加上标点，例如，在对话框的主体中。在引号中包含（除非是你正在告诉用户输入什么，否则是否包含很含糊。  ||
 || 逗号 || , || 在引号中添加，使用序列化的逗号。 ||
 || 感叹号 || ! || 避免为你不会真正喊出来的内容添加感叹号。 ||
@@ -523,32 +526,32 @@ You have three messages
 特别文化背景的语言会很难翻译，并且在某些本地化中不合适。
 
 ```
-Discover great offers
+发现（Discover）很好的选择
 ```
 正确
 
 ```
-Snag great offers
+发现（Snag）很好的选择
 ```
 错误
 
 ```
-No offers left.
+没有剩余的选择了。（No offers left.）
 ```
 正确
 
 ```
-Bummer. There are no offers left.
+没有剩余的选择了（Bummer. There are no offers left.）
 ```
 错误
 
 ```
-Great job!
+干得漂亮！（Great job!）
 ```
 正确
 
 ```
-You really hit it out of the park!
+干得漂亮！（You really hit it out of the park!）
 ```
 错误
 
